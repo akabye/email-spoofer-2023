@@ -5,7 +5,7 @@
 Email Spoofer Tool for Spoofing Email Addresses. 100% Inbox Rate with orginal emailer's logo.<br>
                                       
 </p>
-<p align="center"><b>Buy License Key for Only 10$.</b></p>
+<p align="center"><b>Buy License Key for Only 100$.</b></p>
 
 ### [+] Disclaimer :
 ***The Keymail aka Email Spoofer tool is for educational purposes only. Iam not responsible if you missue it***
