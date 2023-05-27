@@ -1,9 +1,9 @@
-# Key Mail by Aryaman Adhikari
+# Key Mail
 
 <p align="center">
 <img src="https://mail.polarnightfraternity.com/logo.jpg" height="60"><br>
 Email Spoofer Tool for Spoofing Email Addresses. 100% Inbox Rate with orginal emailer's logo.<br>
-                                       MADE IN NEPAL
+                                      
 </p>
 <p align="center"><b>Buy License Key for Only 10$.</b></p>
 
