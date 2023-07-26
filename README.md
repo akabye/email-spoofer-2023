@@ -5,7 +5,7 @@
 Email Spoofer Tool for Spoofing Email Addresses. 100% Inbox Rate with orginal emailer's logo.<br>
                                       
 </p>
-<p align="center"><b>Buy License Key for Only 100$.</b></p>
+<p align="center"><b>Buy License Key for Only 50$.</b></p>
 
 ### [+] Disclaimer :
 ***The Keymail aka Email Spoofer tool is for educational purposes only. Iam not responsible if you missue it***
@@ -18,7 +18,7 @@ Email Spoofer Tool for Spoofing Email Addresses. 100% Inbox Rate with orginal em
 
 
 ## [+] Follow Me :
-[![Instagram](https://img.shields.io/badge/IG-%40akaprachanda-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/akaprachanda)
+
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/akaprachanda)
 
 <p>Email spoofing is a technique used in spam and phishing attacks to trick users into thinking a message came from a person or entity they either know or can trust. In spoofing attacks, the sender forges email headers so that client software displays the fraudulent sender address, which most users take at face value. Unless they inspect the header more closely, users see the forged sender in a message. If it’s a name they recognize, they’re more likely to trust it. So they’ll click malicious links, open malware attachments, send sensitive data and even wire corporate funds. </p>
