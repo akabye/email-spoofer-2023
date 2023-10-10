@@ -80,6 +80,6 @@ print("")
 
 
 if "BTC" in response.text:
-    print(R + " Talk Live With Me --> https://t.me/akadosti")
+    print(R + " Talk Live With Me --> https://t.me/akaprachanda")
 else:
  print("")
